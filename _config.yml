@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+$ mkdir themes
+$ cd themes
+$ git clone github.com:themefisher/timer-hugo.git
